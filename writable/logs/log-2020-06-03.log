@@ -1,0 +1,477 @@
+CRITICAL - 2020-06-03 21:47:27 --> Class 'App\Models\CaegoryModel' not found
+#0 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/paytabstask/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-03 21:47:27 --> Class 'App\Models\CaegoryModel' not found
+#0 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/paytabstask/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-03 21:47:29 --> Class 'App\Models\CaegoryModel' not found
+#0 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/paytabstask/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-03 21:48:05 --> Class 'App\Models\CaegoryModel' not found
+#0 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/paytabstask/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-03 21:48:06 --> Class 'App\Models\CaegoryModel' not found
+#0 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/paytabstask/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-03 21:51:05 --> Class 'App\Models\CaegoryModel' not found
+#0 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-03 21:51:55 --> Class 'CaegoryModel' not found
+#0 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-03 21:52:13 --> Class 'App\Models\CategoryModel' not found
+#0 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-03 21:52:41 --> Class 'App\Models\CaegoryModel' not found
+#0 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-03 21:52:44 --> Class 'App\Models\CaegoryModel' not found
+#0 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-03 21:54:06 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 21:55:24 --> Table 'category.category' doesn't exist
+#0 /Applications/MAMP/htdocs/paytabstask/system/Database/MySQLi/Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 /Applications/MAMP/htdocs/paytabstask/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /Applications/MAMP/htdocs/paytabstask/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /Applications/MAMP/htdocs/paytabstask/system/Database/BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Applications/MAMP/htdocs/paytabstask/system/Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/MAMP/htdocs/paytabstask/app/Models/CategoryModel.php(10): CodeIgniter\Model->findAll()
+#6 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#7 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#8 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#9 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-06-03 21:56:01 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 21:57:39 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get_where()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:01:51 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::get_where()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:01:57 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::get_where()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:03:14 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:03:17 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:05:18 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:07:25 --> Undefined variable: table
+#0 /Applications/MAMP/htdocs/paytabstask/app/Models/CategoryModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 10, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-03 22:07:50 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::where()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:08:49 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:11:50 --> Table 'category.category' doesn't exist
+#0 /Applications/MAMP/htdocs/paytabstask/system/Database/MySQLi/Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 /Applications/MAMP/htdocs/paytabstask/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /Applications/MAMP/htdocs/paytabstask/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /Applications/MAMP/htdocs/paytabstask/system/Database/BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Applications/MAMP/htdocs/paytabstask/system/Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/MAMP/htdocs/paytabstask/app/Models/CategoryModel.php(11): CodeIgniter\Model->findAll()
+#6 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#7 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#8 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#9 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-06-03 22:12:31 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:12:32 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:12:32 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:12:32 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:41:42 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:41:42 --> Uncaught ErrorException: include(/Applications/MAMP/htdocs/paytabstask/app/Views/errors/html/error_exception.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/paytabstask/system/Debug/Exceptions.php:299
+Stack trace:
+#0 /Applications/MAMP/htdocs/paytabstask/system/Debug/Exceptions.php(299): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(/Applic...', '/Applications/M...', 299, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/Debug/Exceptions.php(299): include()
+#2 /Applications/MAMP/htdocs/paytabstask/system/Debug/Exceptions.php(172): CodeIgniter\Debug\Exceptions->render(Object(Error), 500)
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-06-03 22:42:10 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:42:36 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:42:38 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:43:52 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:48:59 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get_where()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:50:18 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:50:37 --> Class '\CodeIgniter\Database\mysql\Connection' not found
+#0 /Applications/MAMP/htdocs/paytabstask/system/Database/Config.php(115): CodeIgniter\Database\Database->load(Array, 'default')
+#1 /Applications/MAMP/htdocs/paytabstask/system/Model.php(336): CodeIgniter\Database\Config::connect('default')
+#2 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(10): CodeIgniter\Model->__construct()
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-03 22:50:50 --> Class '\CodeIgniter\Database\MYSQL\Connection' not found
+#0 /Applications/MAMP/htdocs/paytabstask/system/Database/Config.php(115): CodeIgniter\Database\Database->load(Array, 'default')
+#1 /Applications/MAMP/htdocs/paytabstask/system/Model.php(336): CodeIgniter\Database\Config::connect('default')
+#2 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(10): CodeIgniter\Model->__construct()
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-03 22:50:51 --> Class '\CodeIgniter\Database\MYSQL\Connection' not found
+#0 /Applications/MAMP/htdocs/paytabstask/system/Database/Config.php(115): CodeIgniter\Database\Database->load(Array, 'default')
+#1 /Applications/MAMP/htdocs/paytabstask/system/Model.php(336): CodeIgniter\Database\Config::connect('default')
+#2 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(10): CodeIgniter\Model->__construct()
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-03 22:50:56 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:51:29 --> Class '\CodeIgniter\Database\mysql\Connection' not found
+#0 /Applications/MAMP/htdocs/paytabstask/system/Database/Config.php(115): CodeIgniter\Database\Database->load(Array, 'default')
+#1 /Applications/MAMP/htdocs/paytabstask/system/Model.php(336): CodeIgniter\Database\Config::connect('default')
+#2 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(10): CodeIgniter\Model->__construct()
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-03 22:51:47 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:53:58 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 22:55:21 --> Argument 1 passed to CodeIgniter\Database\BaseBuilder::get() must be of the type int or null, string given, called in /Applications/MAMP/htdocs/paytabstask/app/Models/CategoryModel.php on line 15
+#0 /Applications/MAMP/htdocs/paytabstask/app/Models/CategoryModel.php(15): CodeIgniter\Database\BaseBuilder->get('categories')
+#1 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-03 22:57:12 --> Undefined property: mysqli::$category_id
+#0 /Applications/MAMP/htdocs/paytabstask/app/Models/CategoryModel.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/Applications/M...', 26, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-03 22:58:10 --> Undefined property: mysqli::$category_id
+#0 /Applications/MAMP/htdocs/paytabstask/app/Models/CategoryModel.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/Applications/M...', 26, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): App\Models\CategoryModel->get_categories()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-03 23:00:46 --> Undefined property: Category::$load
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/Applications/M...', 14, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 23:02:09 --> Undefined property: CodeIgniter\View\View::$load
+#0 /Applications/MAMP/htdocs/paytabstask/app/Views/dropdown/index.php(1): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/Applications/M...', 1, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/paytabstask/system/Common.php(1087): CodeIgniter\View\View->render('dropdown/index', Array, true)
+#3 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(16): view('dropdown/index', Array)
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#6 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-03 23:02:49 --> Call to undefined function form_dropdown()
+#0 /Applications/MAMP/htdocs/paytabstask/system/View/View.php(246): include()
+#1 /Applications/MAMP/htdocs/paytabstask/system/Common.php(1087): CodeIgniter\View\View->render('dropdown/index', Array, true)
+#2 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(16): view('dropdown/index', Array)
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-03 23:07:33 --> Call to undefined function form_dropdown()
+#0 /Applications/MAMP/htdocs/paytabstask/system/View/View.php(246): include()
+#1 /Applications/MAMP/htdocs/paytabstask/system/Common.php(1087): CodeIgniter\View\View->render('dropdown/index', Array, true)
+#2 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(16): view('dropdown/index', Array)
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-03 23:07:43 --> Call to undefined function form_dropdown()
+#0 /Applications/MAMP/htdocs/paytabstask/system/View/View.php(246): include()
+#1 /Applications/MAMP/htdocs/paytabstask/system/Common.php(1087): CodeIgniter\View\View->render('dropdown/index', Array, true)
+#2 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(16): view('dropdown/index', Array)
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-03 23:09:24 --> Call to undefined function form_dropdown()
+#0 /Applications/MAMP/htdocs/paytabstask/system/View/View.php(246): include()
+#1 /Applications/MAMP/htdocs/paytabstask/system/Common.php(1087): CodeIgniter\View\View->render('dropdown/index', Array, true)
+#2 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(16): view('dropdown/index', Array)
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-03 23:09:25 --> Call to undefined function form_dropdown()
+#0 /Applications/MAMP/htdocs/paytabstask/system/View/View.php(246): include()
+#1 /Applications/MAMP/htdocs/paytabstask/system/Common.php(1087): CodeIgniter\View\View->render('dropdown/index', Array, true)
+#2 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(16): view('dropdown/index', Array)
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-03 23:09:42 --> Call to undefined function form_dropdown()
+#0 /Applications/MAMP/htdocs/paytabstask/system/View/View.php(246): include()
+#1 /Applications/MAMP/htdocs/paytabstask/system/Common.php(1087): CodeIgniter\View\View->render('dropdown/index', Array, true)
+#2 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(17): view('dropdown/index', Array)
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-03 23:09:44 --> Call to undefined function form_dropdown()
+#0 /Applications/MAMP/htdocs/paytabstask/system/View/View.php(246): include()
+#1 /Applications/MAMP/htdocs/paytabstask/system/Common.php(1087): CodeIgniter\View\View->render('dropdown/index', Array, true)
+#2 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(17): view('dropdown/index', Array)
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-03 23:09:45 --> Call to undefined function form_dropdown()
+#0 /Applications/MAMP/htdocs/paytabstask/system/View/View.php(246): include()
+#1 /Applications/MAMP/htdocs/paytabstask/system/Common.php(1087): CodeIgniter\View\View->render('dropdown/index', Array, true)
+#2 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(17): view('dropdown/index', Array)
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-03 23:09:51 --> Call to undefined function form_dropdown()
+#0 /Applications/MAMP/htdocs/paytabstask/system/View/View.php(246): include()
+#1 /Applications/MAMP/htdocs/paytabstask/system/Common.php(1087): CodeIgniter\View\View->render('dropdown/index', Array, true)
+#2 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(16): view('dropdown/index', Array)
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-06-03 23:18:48 --> Cannot call constructor
+#0 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(886): Category->__construct()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(395): CodeIgniter\CodeIgniter->createController()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-03 23:19:04 --> Undefined variable: model
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 18, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 23:19:06 --> Undefined variable: model
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 18, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 23:33:47 --> Undefined property: Category::$load
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/Applications/M...', 13, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/public/index.php(74): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-03 23:52:54 --> Undefined variable: totalTime
+#0 /Applications/MAMP/htdocs/paytabstask/system/Debug/Toolbar/Views/toolbar.tpl.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 56, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/Debug/Toolbar.php(498): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/paytabstask/system/Debug/Toolbar.php(455): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 /Applications/MAMP/htdocs/paytabstask/app/Config/Events.php(44): CodeIgniter\Debug\Toolbar->respond()
+#4 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#5 /Applications/MAMP/htdocs/paytabstask/system/Events/Events.php(188): call_user_func(Object(Closure))
+#6 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(289): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-03 23:52:56 --> Undefined variable: totalTime
+#0 /Applications/MAMP/htdocs/paytabstask/system/Debug/Toolbar/Views/toolbar.tpl.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 56, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/Debug/Toolbar.php(498): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/paytabstask/system/Debug/Toolbar.php(455): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 /Applications/MAMP/htdocs/paytabstask/app/Config/Events.php(44): CodeIgniter\Debug\Toolbar->respond()
+#4 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#5 /Applications/MAMP/htdocs/paytabstask/system/Events/Events.php(188): call_user_func(Object(Closure))
+#6 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(289): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#8 {main}

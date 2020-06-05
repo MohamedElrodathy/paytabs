@@ -1,0 +1,165 @@
+CRITICAL - 2020-06-04 00:00:16 --> Too few arguments to function App\Models\CategoryModel::sub_categories(), 0 passed in /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php on line 28 and exactly 1 expected
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(28): App\Models\CategoryModel->sub_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('2')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 00:02:17 --> Too few arguments to function App\Models\CategoryModel::sub_categories(), 0 passed in /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php on line 28 and exactly 1 expected
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(28): App\Models\CategoryModel->sub_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('2')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 00:04:49 --> Too few arguments to function App\Models\CategoryModel::sub_categories(), 0 passed in /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php on line 29 and exactly 1 expected
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(29): App\Models\CategoryModel->sub_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('2')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 00:06:15 --> Undefined variable: id
+#0 /Applications/MAMP/htdocs/paytabstask/app/Models/CategoryModel.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 36, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(29): App\Models\CategoryModel->sub_categories()
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('2')
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-06-04 00:06:41 --> Call to a member function num_rows() on array
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(29): App\Models\CategoryModel->sub_categories()
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('2')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 00:10:41 --> Array to string conversion
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/Applications/M...', 32, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('2')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 00:55:50 --> Array to string conversion
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/Applications/M...', 31, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('2')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 03:11:35 --> Undefined variable: suboptions
+#0 /Applications/MAMP/htdocs/paytabstask/app/Views/dropdown/index.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 9, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/paytabstask/system/Common.php(1087): CodeIgniter\View\View->render('dropdown/index', Array, true)
+#3 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(20): view('dropdown/index', Array)
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#6 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-04 19:59:37 --> Invalid argument supplied for foreach()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/Applications/M...', 33, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('1')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 19:59:46 --> Invalid argument supplied for foreach()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/Applications/M...', 33, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('1')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 19:59:49 --> Invalid argument supplied for foreach()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/Applications/M...', 33, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('1')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 19:59:55 --> Invalid argument supplied for foreach()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/Applications/M...', 33, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('1')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 20:00:03 --> Invalid argument supplied for foreach()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/Applications/M...', 33, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('1')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 20:00:36 --> Invalid argument supplied for foreach()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/Applications/M...', 33, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('1')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 20:00:39 --> Invalid argument supplied for foreach()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/Applications/M...', 33, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('1')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 20:00:47 --> Invalid argument supplied for foreach()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/Applications/M...', 33, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('1')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 20:00:56 --> Invalid argument supplied for foreach()
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/Applications/M...', 33, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('1')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 20:06:31 --> count(): Parameter must be an array or an object that implements Countable
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', '/Applications/M...', 31, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('1')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 20:08:54 --> syntax error, unexpected '" selected=\"selected\">-- Sub' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+#0 /Applications/MAMP/htdocs/paytabstask/system/Autoloader/Autoloader.php(340): CodeIgniter\Autoloader\Autoloader->requireFile('/Applications/M...')
+#1 /Applications/MAMP/htdocs/paytabstask/system/Autoloader/Autoloader.php(264): CodeIgniter\Autoloader\Autoloader->loadLegacy('Category.php')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Category')
+#3 [internal function]: spl_autoload_call('Category')
+#4 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(865): class_exists('\\Category', true)
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-06-04 20:17:27 --> count(): Parameter must be an array or an object that implements Countable
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', '/Applications/M...', 31, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('1')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 20:17:49 --> count(): Parameter must be an array or an object that implements Countable
+#0 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', '/Applications/M...', 31, Array)
+#1 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->sub_categories('1')
+#2 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#3 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-06-04 21:49:38 --> No such file or directory
+#0 /Applications/MAMP/htdocs/paytabstask/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /Applications/MAMP/htdocs/paytabstask/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Applications/MAMP/htdocs/paytabstask/system/Database/BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT `categor...', Array, false)
+#3 /Applications/MAMP/htdocs/paytabstask/app/Models/CategoryModel.php(21): CodeIgniter\Database\BaseBuilder->get()
+#4 /Applications/MAMP/htdocs/paytabstask/app/Controllers/Category.php(15): App\Models\CategoryModel->get_categories()
+#5 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(914): Category->index()
+#6 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Category))
+#7 /Applications/MAMP/htdocs/paytabstask/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/MAMP/htdocs/paytabstask/index.php(76): CodeIgniter\CodeIgniter->run()
+#9 {main}
